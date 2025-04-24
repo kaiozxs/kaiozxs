@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaio Melo</h1>
 
-- 📫 How to meet me: kaiodsmelo@hotmai.com 
+- 📫 How to meet me: kaiodsmelo@hotmail.com 
 
 ---
 
