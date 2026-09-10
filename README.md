@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20%5BSeu%20Nome%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor(a)%20Full%20Stack%20%7C%20React%20%E2%80%A2%20Node%20%E2%80%A2%20Python&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20Kaio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor(a)%20Full%20Stack%20%7C%20React%20%E2%80%A2%20Node%20%E2%80%A2%20Python&descAlignY=58&descSize=18"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+Python+%7C+SQL;Sempre+aprendendo+algo+novo+%F0%9F%9A%80;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+Python+%7C+SQL;Sempre+aprendendo+algo+novo+%F0%9F%9A%80;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,10 +20,12 @@
 ### 🚀 Sobre mim
 
 ```yaml
-nome: "Kaio Melo"
+nome: "Kaio"
+cargo: "Desenvolvedor(a) Full Stack"
 stack: ["React", "JavaScript", "Node.js", "Python", "SQL"]
-foco_atual: "construindo projetos reais"
-aprendendo: "observar e absorver"
+foco_atual: "construindo projetos incríveis 🔥"
+aprendendo: "edite com o que estiver estudando"
+diversao: "café ☕ + código 💻 + música 🎧"
 ```
 
 ---
@@ -48,12 +50,12 @@ aprendendo: "observar e absorver"
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" alt="Top Langs" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -61,7 +63,7 @@ aprendendo: "observar e absorver"
 ### 🏆 Troféus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=flat&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies"/>
 </p>
 
 ---
@@ -80,4 +82,4 @@ aprendendo: "observar e absorver"
 
 <p align="center">✨ Obrigado(a) pela visita! Fique à vontade pra dar uma olhada nos meus repositórios ✨</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
