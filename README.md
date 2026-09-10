@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou o [Seu Nome] 👋</h1>
-<h3 align="center">Desenvolvedor(a) Full Stack | React • Node • Python</h3>
+<h1 align="center">Olá, eu sou o Kaio 👋</h1>
+<h3 align="center">Desenvolvedor Full Stack | React • Node • Python</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
