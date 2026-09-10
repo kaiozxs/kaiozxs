@@ -11,7 +11,7 @@
 
 - 💻 Trabalho como Desenvolvedor(a) Full Stack
 - 🔭 Atualmente construindo projetos com **React, Node.js e Python**
-- 🌱 Sempre estudando algo novo (edite essa linha com o que estiver aprendendo)
+- 🌱 Observar e Absorver 
 - 📫 Como me encontrar: [LinkedIn](#) • [Portfólio](#) • [Email](#)
 
 ---
