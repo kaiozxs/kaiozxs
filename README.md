@@ -21,11 +21,9 @@
 
 ```yaml
 nome: "Kaio"
-cargo: "Desenvolvedor(a) Full Stack"
 stack: ["React", "JavaScript", "Node.js", "Python", "SQL"]
-foco_atual: "construindo projetos incríveis 🔥"
-aprendendo: "edite com o que estiver estudando"
-diversao: "café ☕ + código 💻 + música 🎧"
+foco_atual: "construindo projetos reais"
+aprendendo: "Observar e Absorver"
 ```
 
 ---
